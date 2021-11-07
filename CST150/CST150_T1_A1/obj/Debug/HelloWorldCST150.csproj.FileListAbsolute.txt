@@ -1,0 +1,10 @@
+C:\Users\Sammi Jo\source\repos\HelloWorldCST150\HelloWorldCST150\obj\Debug\HelloWorldCST150.csproj.AssemblyReference.cache
+C:\Users\Sammi Jo\source\repos\HelloWorldCST150\HelloWorldCST150\obj\Debug\HelloWorldCST150.Form1.resources
+C:\Users\Sammi Jo\source\repos\HelloWorldCST150\HelloWorldCST150\obj\Debug\HelloWorldCST150.Properties.Resources.resources
+C:\Users\Sammi Jo\source\repos\HelloWorldCST150\HelloWorldCST150\obj\Debug\HelloWorldCST150.csproj.GenerateResource.cache
+C:\Users\Sammi Jo\source\repos\HelloWorldCST150\HelloWorldCST150\obj\Debug\HelloWorldCST150.csproj.CoreCompileInputs.cache
+C:\Users\Sammi Jo\source\repos\HelloWorldCST150\HelloWorldCST150\bin\Debug\HelloWorldCST150.exe.config
+C:\Users\Sammi Jo\source\repos\HelloWorldCST150\HelloWorldCST150\bin\Debug\HelloWorldCST150.exe
+C:\Users\Sammi Jo\source\repos\HelloWorldCST150\HelloWorldCST150\bin\Debug\HelloWorldCST150.pdb
+C:\Users\Sammi Jo\source\repos\HelloWorldCST150\HelloWorldCST150\obj\Debug\HelloWorldCST150.exe
+C:\Users\Sammi Jo\source\repos\HelloWorldCST150\HelloWorldCST150\obj\Debug\HelloWorldCST150.pdb
